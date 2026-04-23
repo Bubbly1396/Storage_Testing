@@ -1,0 +1,10 @@
+{
+	"server" : {
+		"host" : "172.31.40.251",
+		"username" : "basheer",
+		"password" : "basheer"
+	},
+	"disk" : {
+		"disk" : "/dev/sdc"
+	}
+}
